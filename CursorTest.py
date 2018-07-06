@@ -13,7 +13,7 @@ Module imported:
   5. Numpy 1.8.0
   6. PySide 1.2.1
 
-Version: 1.00
+Version: 1.00.00 test
 
 Created on SEP 25 2017
 
